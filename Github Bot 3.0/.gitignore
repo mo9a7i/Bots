@@ -1,0 +1,11 @@
+# Config files with sensitive data
+config/*.json
+!config/*.example
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class 

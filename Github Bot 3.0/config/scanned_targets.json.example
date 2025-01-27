@@ -1,0 +1,13 @@
+{
+    "example_user": {
+        "last_scan": "2024-01-15",
+        "followers_found": 42,
+        "successful_follows": 5,
+        "skipped_users": {
+            "blacklisted": 10,
+            "special": 2,
+            "already_following": 15,
+            "already_follower": 10
+        }
+    }
+} 

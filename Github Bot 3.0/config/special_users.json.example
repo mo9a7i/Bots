@@ -1,0 +1,9 @@
+{
+    "special_users": [
+        "friend1",
+        "important_contact",
+        "collaborator",
+        "mentor",
+        "team_member"
+    ]
+} 
